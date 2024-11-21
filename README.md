@@ -28,4 +28,4 @@ Um **Jogo da Memória** clássico desenvolvido para dispositivos iOS utilizando 
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/Lopes-dev50/jogo-da-memoria-swiftui.git
+   git clone https://github.com/Lopes-dev50/Jogodamemoria.git
